@@ -6,7 +6,7 @@
 Summary:	A web client debugging tool (DSO) for apache
 Name:		apache-%{mod_name}
 Version:	2.1
-Release:	%mkrel 12
+Release:	%mkrel 13
 Group:		System/Servers
 License:	BSD-style
 URL:		http://www.snert.com/Software/mod_loopback/index.shtml
