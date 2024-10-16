@@ -9,7 +9,7 @@ Version:	2.1
 Release:	%mkrel 14
 Group:		System/Servers
 License:	BSD-style
-URL:		http://www.snert.com/Software/mod_loopback/index.shtml
+URL:		https://www.snert.com/Software/mod_loopback/index.shtml
 Source0:	mod_loopback201.tar.bz2
 Source1:	%{mod_conf}.bz2
 Requires(pre): rpm-helper
